@@ -1,0 +1,90 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HowOldAreYou",
+            "request": "launch",
+            "mainClass": "HowOldAreYou",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "IfTest1",
+            "request": "launch",
+            "mainClass": "IfTest1",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "IfTest0",
+            "request": "launch",
+            "mainClass": "IfTest0",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "hello5",
+            "request": "launch",
+            "mainClass": "hello5",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "hello4",
+            "request": "launch",
+            "mainClass": "hello4",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "hello3",
+            "request": "launch",
+            "mainClass": "hello3",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "hello2",
+            "request": "launch",
+            "mainClass": "hello2",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "HelloArgs",
+            "request": "launch",
+            "mainClass": "HelloArgs",
+            "projectName": "Hello_52cb75a1",
+            "args": [
+                "A0",
+                "A1",
+                "A2",
+                "A3"
+            ]
+        }
+    ]
+}
