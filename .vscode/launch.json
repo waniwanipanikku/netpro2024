@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CSVReaderExample",
+            "request": "launch",
+            "mainClass": "CSVReaderExample",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferTest",
+            "request": "launch",
+            "mainClass": "StringBufferTest",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
             "name": "NetproLabMember",
             "request": "launch",
             "mainClass": "NetproLabMember",
