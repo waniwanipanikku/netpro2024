@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class CSVReaderExample {
 public static void main(String[] args) {
-String csvFile = "C/Users/miman/Desktop/jusho.csv"; // ファイルのパスを指定してください
+String csvFile = "../jusho.csv"; // ファイルのパスを指定してください
 String line = "";
 String csvSplitBy = ","; // CSVファイルの区切り文字を指定してください
 

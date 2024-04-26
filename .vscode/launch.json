@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "u",
+            "request": "launch",
+            "mainClass": "u",
+            "projectName": "Hello_52cb75a1"
+        },
+        {
+            "type": "java",
             "name": "CSVReaderExample",
             "request": "launch",
             "mainClass": "CSVReaderExample",
