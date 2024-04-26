@@ -25,7 +25,10 @@ public class HowOldAreYou {
                 break;
             }
 			int age = Integer.parseInt(line);
-            
+            if(age<0||age>=120){
+                System.out.println("正しい年齢を入力してください");
+
+            }else{
 			System.out.println("あなたは" + age + "歳ですね。");
 			System.out.println("2030年のあなたの年齢は" + (age + 6) + "歳ですね。");
             int c =2023-age;
@@ -47,6 +50,7 @@ public class HowOldAreYou {
                 d=c-2018;
                 System.out.println("あなたが誕生した元号は令和"+d+"年です");
             }
+        }
         }
 		}
 		catch(IOException e) {
